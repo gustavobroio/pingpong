@@ -1,8 +1,8 @@
-# pingpong
+# PingPong
 Projeto de Jogo de Ping-Pong em HTML, CSS e JavaScript
 
 
-🚀 Este projeto foi uma jornada empolgante no mundo do desenvolvimento web, onde criei um emocionante jogo de Ping-Pong, também conhecido como Pong, usando tecnologias web essenciais.
+🚀 Este projeto foi uma jornada de desenvolvimento web, onde criei um jogo de Ping-Pong, também conhecido como Pong, usando tecnologias web essenciais.
 
 Contribuições-Chave:
 
